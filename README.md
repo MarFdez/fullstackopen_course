@@ -1,1 +1,1 @@
-# fullstackopen_course
+# University of Helsinki - Full Stack Open
