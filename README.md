@@ -2,4 +2,4 @@
 
 ## [`PART 0 - FUNDAMENTALS OF WEB APPS`](https://github.com/Marcuwus/fullstackopen_course/tree/master/part0)
 
-This is where all begins
+This is where it all begins
