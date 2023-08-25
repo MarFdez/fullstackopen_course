@@ -1,0 +1,11 @@
+name: Directory Listing for Github Page
+uses: rajibdpi/directory-listing-for-github-page@v4.0.2
+theme: minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  
