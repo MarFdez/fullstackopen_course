@@ -1,6 +1,7 @@
 theme: minima
 plugins:
   - jekyll-relative-links
+  - jekyll-spaceship
 relative_links:
   enabled: true
   collections: true
