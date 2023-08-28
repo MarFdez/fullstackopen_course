@@ -1,6 +1,4 @@
-name: Directory Listing for Github Page
-uses: rajibdpi/directory-listing-for-github-page@v4.0.2
-theme: minimal
+theme: minima
 plugins:
   - jekyll-relative-links
 relative_links:
